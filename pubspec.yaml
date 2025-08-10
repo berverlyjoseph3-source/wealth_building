@@ -1,0 +1,17 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.17.0
+  cloud_firestore: ^4.15.0
+  google_sign_in: ^6.1.5
+  provider: ^6.0.5
+  # For animations: flutter_animate: ^4.4.0
+  # For responsive design: flutter_screenutil: ^5.9.0
+  # For routing: go_router: ^12.0.0
+  lottie: ^2.7.0
+  audioplayers: ^5.1.0
+  confetti: ^0.8.0
+assets:
+  - assets/
+  - privacy.html
